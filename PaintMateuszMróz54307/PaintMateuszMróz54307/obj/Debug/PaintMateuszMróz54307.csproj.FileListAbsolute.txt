@@ -1,0 +1,10 @@
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\bin\Debug\PaintMateuszMróz54307.exe.config
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\bin\Debug\PaintMateuszMróz54307.exe
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\bin\Debug\PaintMateuszMróz54307.pdb
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.csprojAssemblyReference.cache
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.Form1.resources
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.Properties.Resources.resources
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.csproj.GenerateResource.cache
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.csproj.CoreCompileInputs.cache
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.exe
+C:\Users\mat12\source\repos\PaintMateuszMróz54307\PaintMateuszMróz54307\obj\Debug\PaintMateuszMróz54307.pdb
